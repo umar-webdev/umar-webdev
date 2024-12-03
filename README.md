@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Umar+Shaikh;Full+Stack+Developer;MERN+Stack+Expert;5%2B+Years+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Umar+Shaikh;Full+Stack+Developer;MERN+Stack+Expert;3%2B+Years+Experience" alt="Typing SVG" />
 </div>
 
 ---
@@ -42,9 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-webdev&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umar-webdev&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=umar-webddev" alt="GitHub Streak" /></a>
 
 ---
 
