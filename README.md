@@ -76,35 +76,11 @@ const currentWork = {
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=umar-webdev&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com/?user=umar-webdev" />
 </div>
 
-<h2 align="center">🎨 Projects & Contributions</h2>
 
-<div align="center">
 
-```typescript
-type Project = {
-    name: string;
-    tech: string[];
-    description: string;
-};
-
-const featuredProjects: Project[] = [
-    {
-        name: "Enterprise Dashboard",
-        tech: ["React", "TypeScript", "Node.js"],
-        description: "Analytics dashboard with real-time data"
-    },
-    {
-        name: "E-commerce Platform",
-        tech: ["Next.js", "MongoDB", "Redux"],
-        description: "Full-featured online shopping platform"
-    }
-];
-```
-
-</div>
 
 <h2 align="center">🤝 Let's Connect</h2>
 
