@@ -2,7 +2,7 @@
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:1D45A9&height=200&section=header&text=Umar%20Shaikh&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20UI%20Enthusiast&descAlignY=55&animation=twinkling)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=MERN+Stack+Expert;Senior+Frontend+Developer;UI%2FUX+Enthusiast;3%2B+Years+of+Experience)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=MERN+Stack+Expert;3%2B+Years+of+Experience)](https://git.io/typing-svg)
 
 </div>
 
