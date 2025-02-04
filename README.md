@@ -1,102 +1,92 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:1D45A9&height=200&section=header&text=Umar%20Shaikh&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20UI%20Enthusiast&descAlignY=55&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:1D45A9&height=180&section=header&text=Umar%20Shaikh&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Specialist&descAlignY=55&animation=twinkling)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=MERN+Stack+Expert;3%2B+Years+of+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;AI+Integration+Specialist;3%2B+Years+of+Experience)](https://git.io/typing-svg)
 
 </div>
 
-<h2 align="center">⚡ Tech Artistry</h2>
+## 🛠️ Technology Stack
 
 <div align="center">
   
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend & AI
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 </div>
 
-<br/>
+## 💡 About Me
 
-<table align="center">
-<tr>
-<td width="50%">
-
-<h3 align="center">About Me 👨‍💻</h3>
-
-```javascript
+```typescript
 const umar = {
     role: "Full Stack Developer",
-    code: {
-        frontend: ["React", "Next.js", "TypeScript"],
-        backend: ["Node.js", "Express", "MongoDB"],
-        ui: ["Tailwind CSS", "Framer Motion"]
+    expertise: {
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
+        ai: ["GenAI Integration", "LLM APIs", "AI-Enhanced UX"],
+        architecture: ["Microservices", "MVC", "REST APIs"]
     },
-    architecture: ["SPA", "MVC", "Microservices"],
-    currentFocus: "Building elegant, user-centric apps",
-    funFact: "I judge websites by their micro-interactions"
+    passions: [
+        "Creating AI-enhanced user experiences",
+        "Building scalable applications",
+        "Performance optimization"
+    ],
+    currentFocus: "Integrating GenAI with MERN applications"
 };
 ```
 
-</td>
-<td width="50%">
+## 🚀 Current Projects & Learning
 
-<h3 align="center">Current Endeavors 🎯</h3>
-
-```javascript
-const currentWork = {
-    learning: [
-        "Advanced Animation Techniques",
-        "System Architecture",
-        "Cloud Technologies"
+```typescript
+const currentEndeavors = {
+    projects: [
+        "ImageKeyword.io - AI-powered image keyword generator",
+        "Enterprise-scale MERN applications",
+        "Custom UI component library"
     ],
-    working_on: [
-        "Enterprise MERN Applications",
-        "Performance Optimization",
-        "UI Component Library"
+    learning: [
+        "Generative AI integration in web applications",
+        "Advanced LLM implementation techniques",
+        "AI-driven user interaction patterns"
+    ],
+    interests: [
+        "AI-enhanced micro-interactions",
+        "Intelligent design systems",
+        "System scalability"
     ]
 };
 ```
 
-</td>
-</tr>
-</table>
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=umar-webdev&show_icons=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-webdev&layout=compact&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=umar-webdev&show_icons=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="Umar's GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-webdev&layout=compact&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
 </div>
-
-<br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=umar-webdev" />
+  <img src="https://streak-stats.demolab.com?user=umar-webdev&theme=transparent&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub Streak" />
 </div>
 
-
-
-
-<h2 align="center">🤝 Let's Connect</h2>
+## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/umar-shaikh-5318bb183/">
-    <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=2F81F7" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://x.com/umarsha308">
-    <img src="https://img.shields.io/badge/Twitter-20232A?style=for-the-badge&logo=x&logoColor=2F81F7" alt="Twitter" />
-  </a>&nbsp;
-  <a href="mailto:umarshaikhshaikh7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-20232A?style=for-the-badge&logo=gmail&logoColor=2F81F7" alt="Email" />
-  </a>
-</div>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-shaikh-5318bb183/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/umarsha308)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umarshaikhshaikh7@gmail.com)
 
-<br/>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:1D45A9&height=100&section=footer" />
